@@ -5,3 +5,5 @@ let num2 = 31;
 const multiply = num1*num2;
 
 const radom = Math.floor(Math.random()*100)+1;
+
+const mod = num3%num4;
