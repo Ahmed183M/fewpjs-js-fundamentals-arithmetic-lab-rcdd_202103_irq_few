@@ -12,3 +12,4 @@ const radom = Math.floor(Math.random()*100)+1;
 
 const mod = num3%num4;
 
+const max = Math.max(1, 3, 20);
